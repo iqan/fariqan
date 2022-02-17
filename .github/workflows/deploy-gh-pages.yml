@@ -16,7 +16,7 @@ jobs:
         cache: 'npm'
     - run: npm install -g gatsby-cli
     - run: npm install
-    - run: npm run deploy
+    - run: gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/iqan/fariqan.git -u "Iqan Shaikh <$EMAIL>"
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         EMAIL: ${{ secrets.EMAIL }}
