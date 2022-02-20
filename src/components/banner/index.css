@@ -1,0 +1,41 @@
+.circle {
+  background: #f9667e;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 63px;
+  font-weight: normal;
+  line-height: 1.5em;
+  border-radius: 100px;
+  margin: 0px;
+  color: #fff;
+  top: -15px;
+  position: relative;
+}
+
+ul.names {
+  list-style: none;
+  font-size: 100px;
+  font-weight: 300;
+}
+
+ul.names li {
+  display: inline-block;
+}
+
+#home {
+  background: url('./IMG_5845.jpg') no-repeat;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-size: auto;
+  background-attachment: fixed;
+  text-align: center;
+  padding-top: 50px;
+  position: relative;
+  height: 800px;
+  width: 100%;
+}
+
+#home .spacer {
+    height: 200px;
+}

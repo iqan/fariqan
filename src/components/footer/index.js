@@ -1,15 +1,14 @@
 import React from "react";
 
-import Container from "./container";
-import * as styles from "./footer.module.css";
+import "./index.css";
 
 const Footer = () => (
-  <Container as="footer">
-    <div className={styles.container}>
+  <footer>
+    <div className="container">
       Made with ❤️ by <a href="https://iqans.com/">Iqan Shaikh</a>{" "}
       &copy; 2022 {" "}
     </div>
-  </Container>
+  </footer>
 );
 
 export default Footer;
