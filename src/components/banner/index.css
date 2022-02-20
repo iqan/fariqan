@@ -24,10 +24,9 @@ ul.names li {
 }
 
 #home {
-  background: url('./IMG_5845.jpg') no-repeat;
-  background-position-x: 0%;
-  background-position-y: 0%;
-  background-size: auto;
+  background: url('./IMG_5845.jpg');
+  background-size: fit;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   text-align: center;
   padding-top: 50px;
@@ -39,3 +38,4 @@ ul.names li {
 #home .spacer {
     height: 200px;
 }
+

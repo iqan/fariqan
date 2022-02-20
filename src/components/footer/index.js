@@ -4,9 +4,8 @@ import "./index.css";
 
 const Footer = () => (
   <footer>
-    <div className="container">
-      Made with ❤️ by <a href="https://iqans.com/">Iqan Shaikh</a>{" "}
-      &copy; 2022 {" "}
+    <div className="text-center p-4">
+      Made with ❤️ by <a href="https://iqans.com/">iqans.com</a>
     </div>
   </footer>
 );

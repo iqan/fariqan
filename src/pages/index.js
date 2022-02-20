@@ -4,15 +4,21 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import "./index.css";
 
-import Layout from "../components/layout";
 import Banner from "../components/banner";
+import Navigation from "../components/navigation";
+import Footer from "../components/footer";
+import Seo from "../components/seo";
+import Events from "../components/events";
 
 class Home extends React.Component {
   render() {
     return (
       <div className="container-fluid">
+        <Seo />
         <Banner />
-        {/* <Layout location={this.props.location}></Layout> */}
+        <Navigation />
+        <Events />
+        <Footer />
       </div>
     );
   }
