@@ -5,7 +5,7 @@ import "./index.css";
 const Footer = () => (
   <footer>
     <div className="text-center p-4">
-      Made with ❤️ by <a href="https://iqans.com/">iqans.com</a>
+      Made with ❤️ by <a href="https://iqans.com/">Iqan</a>
     </div>
   </footer>
 );

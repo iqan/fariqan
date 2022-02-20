@@ -16,8 +16,8 @@ class Home extends React.Component {
       <div className="container-fluid">
         <Seo />
         <Banner />
-        <Navigation />
-        <Events />
+        {/* <Navigation />
+        <Events /> */}
         <Footer />
       </div>
     );
