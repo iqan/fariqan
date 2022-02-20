@@ -6,6 +6,7 @@ import "./index.css";
 const Banner = () => (
   <div>
     <section id="home" data-stellar-background-ratio="0.5">
+      <img src="/IMG_5845.jpg" className="img-fluid" />
       <div className="container">
         <div className="row">
           <div className="col-xs-12">
