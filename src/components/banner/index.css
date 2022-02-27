@@ -39,6 +39,10 @@ ul.names li {
   display: none;
 }
 
+#home .date {
+  font-weight: bold;
+}
+
 @media screen and (max-width: 600px) {
   .circle {
     width: 40px;
