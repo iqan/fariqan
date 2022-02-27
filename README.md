@@ -1,3 +1,3 @@
 # FarIqan
 
-A personal wedding website. Fariha and Iqan.
+## A personal wedding website. Fariha and Iqan.
