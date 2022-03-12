@@ -1,10 +1,9 @@
-html, body {
-    height: 100%;
-    width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.container-fluid {
-    margin: 0 !important;
-    padding: 0 !important;
-    font-family: "Oswald", Verdana, Geneva, sans-serif;
+html, body, #___gatsby, #gatsby-focus-wrapper, #gatsby-focus-wrapper > div {
+  height: 100%
 }

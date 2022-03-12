@@ -4,7 +4,7 @@ import "./index.css";
 
 const Footer = () => (
   <footer className="fixed-bottom">
-    <div className="text-center p-4">
+    <div className="footer-text">
       Made with ❤️ by <a href="https://iqans.com/">Iqan</a>
     </div>
   </footer>
