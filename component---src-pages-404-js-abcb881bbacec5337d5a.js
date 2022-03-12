@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfariqan=self.webpackChunkfariqan||[]).push([[883],{429:function(n,e,t){t.r(e);var r=t(721),a=t(294),u=function(n){function e(){return n.apply(this,arguments)||this}return(0,r.Z)(e,n),e.prototype.render=function(){return a.createElement("div",{className:"container-fluid"},a.createElement("h3",null,"Page you are looking for is not found."))},e}(a.Component);e.default=u}}]);
+//# sourceMappingURL=component---src-pages-404-js-abcb881bbacec5337d5a.js.map
