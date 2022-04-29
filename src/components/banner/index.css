@@ -1,4 +1,8 @@
 #banner {
+  height: 100%;
+}
+
+/* #banner {
   background-image: url("/bday_picture.jpg");
   height: 100%;
   background-position: center;
@@ -101,4 +105,4 @@ ul.names li {
   .title {
     font-size: large;
   }
-}
+} */
