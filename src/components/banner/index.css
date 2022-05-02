@@ -1,5 +1,5 @@
 #banner {
-  background-image: url("/images/banner3_sm.jpg");
+  background-image: url("/banner3_sm.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ ul.names li {
 }
 
 #banner > .spacer {
-  height: 110vw;
+  height: 90vw;
 }
 
 .circle {
@@ -69,7 +69,7 @@ ul.names li {
 
 @media screen and (min-width: 600px) {
   #banner {
-    background-image: url("/images/banner3.jpg");
+    background-image: url("/banner3.jpg");
     background-position: initial;
   }
 
